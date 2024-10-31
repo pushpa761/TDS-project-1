@@ -20,5 +20,8 @@ This repository contains data about GitHub users in Toronto with over 100 follow
 - Hireable People are more likely to share their email id but they tend to follow less people as compared to non hireable people
 - People with more followers are more to keep their repsitory private and more repo does not indaicate more followers.
 - the people who enable project are less likely to enable wiki as well.
+- more descriptive bio tend to gain more followers
 
-- ##  
+- ## Actionable recommendation for developers
+
+- People with projects must be encouraged for using wiki enabled repo so that more insights are available and the ideas can be shrared in a more fruitful way.
